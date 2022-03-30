@@ -22,8 +22,6 @@
     <img align= "center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align= "center" alt="BootStrap" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img align= "center" alt="BootStrap" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-![Snake animation](https://github.com/Alewarrior/Alewarrior/blob/output/github-contribution-grid-snake.svg)
-    
+   
 </div>
 
