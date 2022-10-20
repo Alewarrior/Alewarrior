@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Alessandro Rocha 🖐️
-### Sou DIO Campus Expert
 ### Redes Sociais:
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/alessandro-n-rocha-587004132/)
